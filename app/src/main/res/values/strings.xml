@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMapsSDK</string>
+    <string name="selecciona_una_ubicaci_n">Selecciona una ubicación</string>
+    <string name="guardar_ubicaci_n">Guardar Ubicación</string>
+</resources>
